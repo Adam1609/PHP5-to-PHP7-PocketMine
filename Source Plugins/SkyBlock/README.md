@@ -1,5 +1,8 @@
 # SkyBlockPE
-SkyBlock ported to PocketMine, API 1.12.0 +
+
+## Important: This was made by @thebigsmilexd and upgraded to PHP7 by DarkWav.
+
+SkyBlock ported to PocketMine, API 2.0.0
 
 Please note that this is still in development.
 
